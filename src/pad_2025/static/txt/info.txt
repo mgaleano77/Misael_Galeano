@@ -1,0 +1,8 @@
+
+¿Qué es un archivo TXT?
+
+Un archivo TXT, reconocible por su extensión '.txt', es un formato de archivo de texto plano. Un ejemplo común de este tipo de archivo podría ser 'documento.txt'.
+
+Los documentos en formato TXT son archivos en texto plano: no contienen ningún formato, solo caracteres de texto. El texto se presenta en un formato legible por humanos, a diferencia de los archivos binarios, que constan sólo de unos pocos caracteres legibles.
+
+Desde la perspectiva técnica, los archivos TXT se clasifican dentro de la categoría de 'texto simple', siendo también identificados como 'archivos de texto plano'. Este formato, reconocido como un documento de texto estándar, es ampliamente valorado por su simplicidad y eficacia en la manipulación de texto sin formatos adicionales. La visualización de su contenido se basa en el uso del conjunto de caracteres ASCII (Código Estándar Americano para el Intercambio de Información), permitiendo que los caracteres se codifiquen de manera eficiente y estandarizada. No obstante, es notable que los archivos TXT poseen la flexibilidad de ser almacenados en formato Unicode, adaptándose así al estándar internacional de caracteres, lo que facilita la inclusión y correcta visualización de símbolos y caracteres de múltiples idiomas.
