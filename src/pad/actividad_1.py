@@ -24,6 +24,7 @@ class Actividad_1():
         with open(ruta_json, 'w', encoding='utf-8') as f:
             json.dump(datos, f, ensure_ascii=False, indent=4)
             #f.write(str(datos))
+            #ajuste
         return True # booleano True (1) False (0)
 
     
