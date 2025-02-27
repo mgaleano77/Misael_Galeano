@@ -21,11 +21,13 @@ class Actividad_1():
         if datos is None:
             datos = "No hay datos"
         ruta_json = "{}json/{}".format(self.ruta_static,nombre_archivo)
-
-        with open(ruta_json, 'w', encoding='utf-8') as f:
+        try:
+            with open(ruta_json, 'w', encoding='utf-8') as f:
                 json.dump(datos, f, ensure_ascii=False, indent=4)
                 #f.write(str(datos))
-              
+                #ajuste
+        except Exception as e:
+            print("Error:",e)
 
         return True # booleano True (1) False (0)
 
