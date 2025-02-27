@@ -5,7 +5,7 @@ __pycache__/
 
 # C extensions
 *.so
-
+src/pad/static/json/*.json
 # Distribution / packaging
 .Python
 build/
