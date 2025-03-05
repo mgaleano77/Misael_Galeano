@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "name": "Caribe",
+        "description": "La región caribe es una de las regiones más importantes del territorio Colombiano, en sus costas hospeda la formación montañosa más grande del mundo: La Sierra Nevada de Santa Marta y el Parque Natural del Tayrona. Además de ser un lugar con suma importancia para la producción pesquera y una serie de puertos conectados con todo el país por el mar Caribe.",
+        "departments": null
+    },
+    {
+        "id": 2,
+        "name": "Pacífico",
+        "description": "la Región del Pacífico se ubica al occidente de Colombia. El pacifico colombiano limita al norte con la frontera con Panamá; al sur con la frontera con Ecuador; al oriente con la Cordillera Occidental de los Andes colombianos; y al occidente con el Océano Pacífico, del cual toma su nombre.",
+        "departments": null
+    },
+    {
+        "id": 3,
+        "name": "Orinoquía",
+        "description": "la Orinoquia es una de las regiones más importantes del país gracias a sus reservas de gas natural y petróleo, cuenta con paisajes de galería, grandes variedades de ganado y una gastronomía que no puede pasar desapercibida, la ternera llanera, la hallaca y el palo a pique son algunos de sus platos más conocidos. Sus bosques y parques natrales hacen de esta región un sitio turístico imperdible del país.",
+        "departments": null
+    },
+    {
+        "id": 4,
+        "name": "Amazonía",
+        "description": "La región amazónica es la región de mayor tamaño en todo el país, cuenta con una fauna y flora inmensamente variada donde resguarda al menos el 10% de la biodiversidad del planeta.Un paraíso natural lleno de color, naturaleza, flores silvestres como la Reyna Victoria amazónica, árboles de hasta 70 metros de altura y segundo río más largo y caudaloso del planeta; el río Amazonas.",
+        "departments": null
+    },
+    {
+        "id": 5,
+        "name": "Andina",
+        "description": "La región Andina es la región con mayor desarrollo económico y social del país, en ella se encuentra el epicentro del país, su capital Bogotá.Cuenta con una gran diversidad ecosistema y la mayor cantidad de parques naturales, entre ellos el Parque Nacional Natural Los Nevados, el Parque Nacional Natural El Cocuy y el Santuario de Fauna y Flora Galeras, hogar de cientos de especies vegetales y animales.",
+        "departments": null
+    },
+    {
+        "id": 6,
+        "name": "Insular",
+        "description": "La Región Insular cuenta con una serie de atractivos que se desprenden de las características propias de la región. En esta región se incluyen las islas del mar Caribe y las del océano Pacífico. El clima es tropical, y cada una de las islas son lugares turísticos muy destacados en Colombia.",
+        "departments": null
+    }
+]
